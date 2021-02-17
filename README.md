@@ -22,7 +22,7 @@ cd | voir
 dir | naviguer
 start | ouvrir un fichier
 cls | clear l'invite
-code | ouvrir le code sur VSC
+code | ouvrir le code
 del | supprimer un fichier
 commit | sauvegarder
 echo | ajouter du texte

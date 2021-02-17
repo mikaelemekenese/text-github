@@ -15,8 +15,6 @@
 * cat
 * remote
 * status
-* clip
-* mkdir
 
 Commande | Description
 ------------ | -------------
@@ -31,5 +29,3 @@ echo | ajouter du texte
 cat | 
 remote | 
 status | voir l'état des fichiers
-clip | 
-mkdir | 
